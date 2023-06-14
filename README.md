@@ -4,7 +4,10 @@
 This is a simple ATM program that has multiple features as you can see your balance and deposit and withdraw form the balance.
 there is some restriction for example you cant deposit a nigative number and you cant withdraw more than the balance .
 this is the console for the program:
-first page 
+
+ ![wireframe](Atm/first page.png)
+
+
 in this page you can see the transaction or exit the atm console this transaction can be tregared by the number of the transaction for example if you typed 2
 you will enter the transaction of withdraw.
 
