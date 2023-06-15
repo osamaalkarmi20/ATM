@@ -25,7 +25,7 @@
             }
             if (choosen == 2)
             {
-                Console.WriteLine("type the ammount you want to withdraw:");
+                Console.WriteLine("write the ammount you want to withdraw:");
                 decimal draw = Convert.ToDecimal(Console.ReadLine());
                 Withdraw(draw);
                 userInterFace();
